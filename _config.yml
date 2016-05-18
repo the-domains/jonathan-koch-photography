@@ -1,0 +1,28 @@
+name: Jonathan Koch Photography
+favicon: null
+layout_spectrum: 0.7767294496297836
+typography_spectrum: 0.4742275667376816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.26770345377735794
+  lightness: 0.7649865951389074
+  saturation: 0.7375271280761808
+  rhythmicContrast: 0.6655914990697056
+purpose: []
