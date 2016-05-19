@@ -19,7 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Jonathan Koch Photography
+author:
+  name: Jonathan Koch
+  email: j@koch.io
+  url: 'http://koch.io'
+name: Jonathan Koch
 cta:
   domain: null
   bucket: null
