@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.skydivemag.com/video/on-the-way-to-paradise-guillaume-galvani'
 title: 'Skydive Mag: On the way to paradise - Guillaume Galvani'
-datePublished: '2016-05-27T23:17:45.152Z'
-dateModified: '2016-05-19T13:53:43.853Z'
+datePublished: '2016-05-27T23:17:45.147Z'
+dateModified: '2016-05-19T13:52:14.412Z'
 starred: false
 sourcePath: _posts/2016-05-27-skydive-mag-on-the-way-to-paradise-guillaume-galvani.md
 inFeed: true
