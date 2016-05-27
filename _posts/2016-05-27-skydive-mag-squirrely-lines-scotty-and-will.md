@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.skydivemag.com/video/squirrely-lines-scotty-will'
 title: 'Skydive Mag: Squirrely Lines: Scotty & Will'
-datePublished: '2016-05-27T23:17:45.154Z'
-dateModified: '2016-05-27T15:09:41.685Z'
-starred: false
+datePublished: '2016-05-27T23:24:34.838Z'
+dateModified: '2016-05-27T23:24:34.483Z'
 sourcePath: _posts/2016-05-27-skydive-mag-squirrely-lines-scotty-and-will.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
