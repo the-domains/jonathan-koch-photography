@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-27T23:40:57.549Z'
+datePublished: '2016-05-30T16:48:50.664Z'
 sourcePath: _posts/2016-04-27-spotifys-design-lead-on-why-side-projects-should-be-stupid.md
 inFeed: true
 isBasedOnUrl: 'http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/'
@@ -24,7 +24,7 @@ related:
     thumbnail_url: 'http://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/8A0V9qL9TTic0g9CdcXm_Dave%20Hero.jpg'
     thumbnail_width: 640
 author: []
-dateModified: '2016-05-27T15:02:48.689Z'
+dateModified: '2016-05-30T16:48:48.659Z'
 title: "Spotify's Design Lead on Why Side Projects Should Be Stupid"
 app_links: []
 publisher:
@@ -35,7 +35,7 @@ publisher:
 description: "Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria."
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
