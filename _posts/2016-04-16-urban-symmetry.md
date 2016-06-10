@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-10T09:45:47.921Z'
+datePublished: '2016-06-10T09:46:07.153Z'
 sourcePath: _posts/2016-04-16-urban-symmetry.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Xziiv3sodcY'
@@ -20,7 +20,7 @@ author:
   - name: Zsolt Hlinka
     url: 'https://www.youtube.com/user/Hlinkaphoto'
     avatar: {}
-dateModified: '2016-06-10T09:45:47.818Z'
+dateModified: '2016-06-10T09:46:06.541Z'
 title: 'with a title [EDIT]'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Xziiv3sodcY&feature=applinks'
@@ -67,7 +67,7 @@ publisher:
 description: ''
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
