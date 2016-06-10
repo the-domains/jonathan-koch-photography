@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jonathan Koch]]></title>
         <description><![CDATA[Jonathan Koch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jonathan-koch-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 09:46:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 09:46:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonathan-koch-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[with a title [EDIT]]]></title>
             <description><![CDATA[<article><h1>with a title [EDIT]</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0242a915-b4e8-4e7e-a674-a7caafd8e10d.png"></article>]]></description>
             <link>https://www.youtube.com/watch?v=Xziiv3sodcY</link>
             <guid isPermaLink="false">e8b8d8e2-4a15-4543-9fa5-8f9f5f3afcf2</guid>
-            <pubDate>Fri, 10 Jun 2016 09:45:47 GMT</pubDate>
+            <pubDate>Fri, 10 Jun 2016 09:46:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
